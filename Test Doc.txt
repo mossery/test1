@@ -2,8 +2,4 @@ testing content addition
 testing conflict
 testing git branching
 Does this work?
-<<<<<<< HEAD
 blabla
-=======
-
->>>>>>> ec1ff177fc7c57077edc63002206ee40e59c1402
